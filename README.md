@@ -12,7 +12,7 @@ Become a trusted digital partner for businesses across Indonesia and the world, 
 5. Continue to innovate and evolve to become a leader in digital transformation through web development and other digital services.
 
 # Contact US
-- [cs@ryucode.com](cs@ryucode.com)
+- <cs@ryucode.com>
 - [+62 813-4066-2711](https://wa.me/6281340662711)
 
 # Social Media
