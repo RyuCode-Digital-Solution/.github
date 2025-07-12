@@ -18,6 +18,7 @@ Become a trusted digital partner for businesses across Indonesia and the world, 
 # Social Media
 - [Facebook](https://facebook.com/ryucodedigitalsolution)
 - [Instagram](https://instagram.com/ryucodedigitalsolution)
-- [X/Twitter](https://x.com/ryucodedigital)
+- [X/Twitter](https://linkedin.com/in/ryucode)
+- [LinkedIn](https://linkedin.com/in/ryucode)
 
 > RyuCode. Build with Purpose, Designed for Impact.
